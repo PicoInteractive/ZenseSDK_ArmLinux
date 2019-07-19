@@ -1,5 +1,5 @@
 # ZenseSDK_ArmLinux
-** For armhf architectures.**
+**For armhf architectures.**
 
 This is the Linux SDK for the Pico Zense TOF RGBD Camera (DCAM710), for ARM 32-bit Hard Float (armhf) CPU architectures. 
 
