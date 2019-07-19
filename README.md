@@ -1,5 +1,5 @@
 # ZenseSDK_ArmLinux
-** For aarch64 architectures. **
+**For aarch64 architectures.**
 
 This is the Linux SDK for the Pico Zense TOF RGBD Camera (DCAM710), for ARM 64-bit (aarch64) CPU architectures. 
 
