@@ -8,5 +8,7 @@ More information about Pico Zense cameras is available at: https://www.picozense
 
 The ARM Linux SDK is built for three common ARM architecture: armhf, arm32 and aarch64. Versions for particular architectures are in their own branch:
 
-- [armhf](https://github.com/PicoInteractive/ZenseSDK_ArmLinux/tree/armhf-linux)- [arm32](https://github.com/PicoInteractive/ZenseSDK_ArmLinux/tree/arm32-linux)- [aarch64](https://github.com/PicoInteractive/ZenseSDK_ArmLinux/tree/aarch64-linux)
+- [armhf](https://github.com/PicoInteractive/ZenseSDK_ArmLinux/tree/armhf-linux)
+- [arm32](https://github.com/PicoInteractive/ZenseSDK_ArmLinux/tree/arm32-linux)
+- [aarch64](https://github.com/PicoInteractive/ZenseSDK_ArmLinux/tree/aarch64-linux)
 
